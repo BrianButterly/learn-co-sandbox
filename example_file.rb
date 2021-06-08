@@ -1,0 +1,6 @@
+case greeting
+  when "unfriendly_greeting"
+    #...
+  when "friendly_greeting"
+    #...
+end
